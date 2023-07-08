@@ -637,6 +637,7 @@ header{
     background: white;
     font-family: 'vidoloka';
     box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.1);
+	 overflow-x: hidden;
 }
 header .navmenu {
     display: flex;
